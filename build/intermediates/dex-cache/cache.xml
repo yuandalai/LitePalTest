@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\99460\.android\build-cache\7965685e7fafa1fba57e7168068e59694e9d0c8d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db185f06215220526d21bbf467cae061956cc185">
+        <dex dex="C:\Users\99460\AndroidStudioProjects\LitePalTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08753578bade425489df64408d60a4151665540b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\99460\AndroidStudioProjects\LitePalTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\99460\AndroidStudioProjects\LitePalTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_98682e49d5fa50eb6f6f294c0a161db12b9f74de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\99460\AndroidStudioProjects\LitePalTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30267604ce5592e4fc60353688b249f6ba27ad01">
+        <dex dex="C:\Users\99460\AndroidStudioProjects\LitePalTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a676d109d270a66943bc106ecace20e49fb59ddc\classes.dex" />
+    </item>
+
+</items>
